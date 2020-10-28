@@ -1,11 +1,4 @@
-/**
- * @file lib.c
- * @brief Файл з реалізацією функцій оперування тваринами
- *
- * @author Davydov V.
- * @date 14-apr-2020
- * @version 1.3
- */
+
 
 #include "lib.h"
 
